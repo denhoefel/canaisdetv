@@ -1,9 +1,6 @@
 #EXTINF:-1,Portal FoxMix
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
 
-#EXTINF:-1,MTV LA
-http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
-
 #EXTINF:-1,AMERCIA HORROR CHANNEL
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
@@ -133,12 +130,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?
 #EXTINF:-1, TRAMix Tv
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8?www.tecnotv.info
 
-#EXTINF:-1,CANÇÃO NOVA
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-
-#EXTINF:-1,Canção Nova
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/master.m3u8
-
 #EXTINF:-1, TELEVISA HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
 
@@ -217,9 +208,6 @@ http://www.djing.com/tv/01.m3u8
 #EXTINF:-1,JING IBIZA
 http://www.djing.com/tv/ibiza.m3u8
 
-#EXTINF:-1,Balcarce Te Ve
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0069
-
 #EXTINF:-1, Sampacho Television
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0139
 
@@ -274,14 +262,8 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 #EXTINF:-1, Via Morena
 https://59f1cbe63db89.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8
 
-#EXTINF:-1,GV NEWS
-https://59f1cbe63db89.streamlock.net:1443/gvnews1/_definst_/gvnews1/playlist.m3u8?PEDROJUNIORTUTORIAIS
-
 #EXTINF:-1, Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
-
-#EXTINF:-1, RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
 #EXTINF:-1,Tv Cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/playlist.m3u8
@@ -343,9 +325,6 @@ https://cctvcnchwh5ca.v.cdn20.com/live/cctv1_2/index.m3u8?contentid=282018051600
 #EXTINF:-1,TV Candidés
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
 
-#EXTINF:-1,TRIP BRASIL TV
-https://cdn.jmvstream.com/w/LVW-8765/LVW8765_5Jt1nT4fUj/playlist.m3u8
-
 #EXTINF:-1,TV Aberta SP
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 
@@ -369,9 +348,6 @@ https://dyo5cp96eopax.cloudfront.net/p/CANE.m3u8
 
 #EXTINF:-1,1 MUSIC CHANNEL (Romênia) Demora para carregar
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w426998597.m3u8
-
-#EXTINF:-1,K2
-https://eurosport-dlvr-ott.akamaized.net/primary/2/fd25859391b5455c9446d035e20204c3/index_video_1_0_2590477.mp4?m=1605194193
 
 #EXTINF:-1,NATIVA FM
 https://evpp.mm.uol.com.br/band/nativa_sp/playlist.m3u8
@@ -402,21 +378,6 @@ https://listaiptv.gratis/bbb21.mp4
 
 #EXTINF:-1, www.listaiptv.gratis
 https://listaiptv.gratis/site.mp4
-
-#EXTINF:-1,ARACATI TV (Séries)
-https://livefocamundo.com:8081/8148/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,TV UAI
-https://livefocamundo.com:8081/8266/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,LatinaSat Webtv (Fortaleza Ce)
-https://livefocamundo.com:8081/8470/index.m3u8
-
-#EXTINF:-1, KRÓNOS MOVIE
-https://livefocamundo.com:8081/8588/index.m3u8
-
-#EXTINF:-1,CINE LIVRE (Filmes)
-https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, M2O
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
@@ -472,9 +433,6 @@ https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/master.m3u8
 #EXTINF:-1, RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
-#EXTINF:-1,YEEAAH RÁDIO (Rádio AMC Brasil)
-https://radioamc.com.br/stream/yeeaah
-
 #EXTINF:-1,RAI NEWS
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/../../../598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
 
@@ -492,9 +450,6 @@ https://servidor34-1.brlogic.com:8194/live
 
 #EXTINF:-1,CINE TRIANON
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
-
-#EXTINF:-1, Sexy KpopTV
-https://srv3.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-1,CINE LIVRE 2 (Filmes)
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
@@ -531,9 +486,6 @@ https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1,THE BEST OF RBD
 https://thebestofrbd.com.br/?qtproxycall=https%3A%2F%2Fr10.ciclano.io%3A15031%2Fstream&icymetadata=1&_=1609864802098
-
-#EXTINF:-1,Cachipum TV
-https://tls.cdnz.cl/cachipuntv/live/playlist.m3u8
 
 #EXTINF:-1, RedeTV! Rondônia
 https://tna5.bozztv.com/sgc17/index.m3u8
