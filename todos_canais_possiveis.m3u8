@@ -1,38 +1,14 @@
-#EXTINF:-1,Portal FoxMix
-http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
-
-#EXTINF:-1,INVESTIGACAO DISCOVERY 2
-https://geralorigin.eu-central-1.edge.mycdn.live/live/idhd/video.m3u8?md5=vj770o5wsx-FIMo9n0VFKA&expires=1644412118
-
-#EXTINF:-1,INVESTIGACAO DISCOVERY
-https://cdn.esporteone.com/IDHD/video.m3u8
-
 #EXTINF:-1,TV TOKYO
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
 
-#EXTINF:-1,AMERCIA HORROR CHANNEL
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-
-#EXTINF:-1, Garage TV
-http://186.0.233.76:1935/Garage/garage.smil/playlist.m3u8
-
-#EXTINF:-1,CONEXÃO BR
-http://189.86.89.116:80/hls-live/livecx/_definst_/liveevent/livestream.m3u8
-
-#EXTINF:-1,NOVO CANAL
-http://189.86.89.116:80/hls-live/livenc/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1,RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, 1HD Music
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
 
 #EXTINF:-1,1 MUSIC CHANNEL (Demora para carregar)
 http://1music.hu/1music.m3u8
-
-#EXTINF:-1,  Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8
-
-#EXTINF:-1,PORTO CANAL
-http://213.13.26.11:1935/live/portocanal/livestream.m3u8
 
 #EXTINF:-1,CBN
 http://bcliveuniv-lh.akamaihd.net:80/i/iptv1_1@194050/index_1200_av-p.m3u8
