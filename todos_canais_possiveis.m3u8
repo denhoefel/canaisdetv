@@ -1,6 +1,9 @@
 #EXTINF:-1,TV TOKYO
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
 
+#EXTINF:-1,TV LOADING
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1793471852.m3u8
+
 #EXTINF:-1,RECORD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
