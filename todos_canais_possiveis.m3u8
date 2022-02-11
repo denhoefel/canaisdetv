@@ -1,7 +1,3 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="ANIME" , ANIME
-http://0.0.0.0
-
 #EXTINF:-1, TOKYO TV
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
 
@@ -26,10 +22,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w774849603.m3u8
 #EXTINF:-1,TV LOADING
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1793471852.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="FILMES E SÉRIES" , FILMES E SÉRIES
-http://0.0.0.0
-
 #EXTINF:-1,Tv Cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/playlist.m3u8
 
@@ -47,11 +39,6 @@ https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w140197
 
 #EXTINF:-1,VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w13029911.m3u8
-
-#EXTM3U
-#EXTINF:0 tvg-logo="http://i.imgur.com/rR0GWJK.jpg" group-title="TV ABERTA" , TV ABERTA
-http://0.0.0.0
-
 
 #EXTINF:-1,RECORD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
