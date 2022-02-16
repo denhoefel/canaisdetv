@@ -1,6 +1,6 @@
 ################################################################################## CANAL ANIMES
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ANIMES" group-title="CANAL ANIMES", TOKYO TV
+#EXTINF:-1  tvg-logo="https://i.ytimg.com/vi/RaBSX7LAB_I/maxresdefault.jpg" group-title="CANAL ANIMES" group-title="CANAL ANIMES", TOKYO TV
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
 
 #EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL ANIMES",TV EXTREME
