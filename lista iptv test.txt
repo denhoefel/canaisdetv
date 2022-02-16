@@ -1,93 +1,107 @@
 ################################################################################## CANAL ANIMES
 
-#EXTINF:-1 group-title="NOME DO GRUPO" group-title="NOME DO GRUPO", TOKYO TV
+#EXTINF:-1 group-title="CANAL ANIMES" group-title="CANAL ANIMES", TOKYO TV
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist_w48351920.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",TV EXTREME
+#EXTINF:-1 group-title="CANAL ANIMES",TV EXTREME
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1546206849.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",ANIME TV
+#EXTINF:-1 group-title="CANAL ANIMES",ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1228511239.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",BONS TEMPOS
+################################################################################## CANAL DESENHOS
+
+#EXTINF:-1 group-title="CANAL DESENHOS",BONS TEMPOS
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w294705423.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",RETRO - CARTOON
+#EXTINF:-1 group-title="CANAL DESENHOS",RETRO - CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1837594645.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",JETSONS
+#EXTINF:-1 group-title="CANAL DESENHOS",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w464985652.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",RETRO CARTOON
+#EXTINF:-1 group-title="CANAL DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w774849603.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",TV LOADING
+#EXTINF:-1 group-title="CANAL DESENHOS",TV LOADING
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1793471852.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",Tv Cinec
+################################################################################## FILMES E SÉRIES
+
+
+#EXTINF:-1 group-title="FILMES E SÉRIES",Tv Cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/playlist.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",CARIOCA TV
+#EXTINF:-1 group-title="FILMES E SÉRIES",CARIOCA TV
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w87160511.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",CHAVES
+#EXTINF:-1 group-title="FILMES E SÉRIES",CHAVES
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w658919756.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",TV SERIES AO VIVO
+#EXTINF:-1 group-title="FILMES E SÉRIES",TV SERIES AO VIVO
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w103326139.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",TV CONFIEGO - FILMES
+#EXTINF:-1 group-title="FILMES E SÉRIES",TV CONFIEGO - FILMES
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1401971691.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",VINTAGE TV
+#EXTINF:-1 group-title="FILMES E SÉRIES",VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w13029911.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",RECORD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 group-title="NOME DO GRUPO",SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w1860606761.m3u8
-
-#EXTINF:-1 group-title="NOME DO GRUPO",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-
-#EXTINF:-1 group-title="NOME DO GRUPO",PUC TV
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-
-#EXTINF:-1 group-title="NOME DO GRUPO", 1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-#EXTINF:-1 group-title="NOME DO GRUPO",CBS NEWS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 group-title="NOME DO GRUPO",RECORD NEWS
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 group-title="NOME DO GRUPO",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
-
-#EXTINF:-1 group-title="NOME DO GRUPO",CANAL ITV (Filmes e Series)
+#EXTINF:-1 group-title="FILMES E SÉRIES",CANAL ITV (Filmes e Series)
 http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",TV CAPITAL (Séries)
+#EXTINF:-1 group-title="FILMES E SÉRIES",TV CAPITAL (Séries)
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",REDE BRASIL de TELEVISAO
+################################################################################## TV ABERTA
+
+
+#EXTINF:-1 group-title="TV ABERTA",RECORD
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="TV ABERTA",SBT
+https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w1860606761.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA",PUC TV
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF:-1 group-title="TV ABERTA", 1HD Music
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
+
+
+################################################################################## NOTICIAS
+
+
+
+#EXTINF:-1 group-title="NOTICIAS",CBS NEWS
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",RECORD NEWS
+http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="NOTICIAS",TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+
+#EXTINF:-1 group-title="NOTICIAS",REDE BRASIL de TELEVISAO
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO", TVídeoNews
+#EXTINF:-1 group-title="NOTICIAS", TVídeoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO",Catve - Cultura (PR)
+#EXTINF:-1 group-title="NOTICIAS",Catve - Cultura (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO", RedeTV! TV Arapuan HD (PB)
+#EXTINF:-1 group-title="NOTICIAS", RedeTV! TV Arapuan HD (PB)
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
-#EXTINF:-1 group-title="NOME DO GRUPO",AGRO+ HD
+#EXTINF:-1 group-title="NOTICIAS",AGRO+ HD
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1227370496.m3u8
 
-#EXTINF:-1 group-title="NOME DO GRUPO", Rede Minas
+#EXTINF:-1 group-title="NOTICIAS", Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
 
 #################### NARUTO SHIPPUDEN ###############################
@@ -1562,81 +1576,81 @@ https://www.animeson.club/naruto-shippuden/4635.mp4
 ########### SAMURAI WARRIORS ###########
 
 #EXTM3U
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_1
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_1
 https://videos-fms.jwpsrv.com/0_620a2ed8_0x4ecd2593853fa10bc6917fc9c7fa98a966806386/content/conversions/jdBr7ZdN/videos/LX8J2TOC-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_2
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_2
 https://videos-fms.jwpsrv.com/0_620a2eb6_0xb5a7168c2640cefe2c93a48aac4257147e819b1c/content/conversions/jdBr7ZdN/videos/yoEQ79QW-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_3
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_3
 https://videos-fms.jwpsrv.com/0_620a2eb5_0xfc72b4ec984d93ed4cfb8879af231370d7e441b7/content/conversions/jdBr7ZdN/videos/IUnAalPt-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_4
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_4
 https://videos-fms.jwpsrv.com/0_620a2eb6_0x3f24eae0875b4a9ded9b19d1469f56d416453150/content/conversions/jdBr7ZdN/videos/oiy558rl-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_5
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_5
 https://videos-fms.jwpsrv.com/0_620a2eb6_0xccbd91c19a1043d5c963f408ea0e88285b2a4813/content/conversions/jdBr7ZdN/videos/pW8Qi4ls-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_6
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_6
 https://videos-fms.jwpsrv.com/0_620a2eb9_0x7b0c64216260b8bdaba2327f4d2f2939d814de7d/content/conversions/jdBr7ZdN/videos/NH6ReP2j-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_7
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_7
 https://videos-fms.jwpsrv.com/0_620a2fa4_0x82a73c6bd21230782f3698f02197db68c39c57a0/content/conversions/jdBr7ZdN/videos/yXJI5aNr-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_8
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_8
 https://videos-fms.jwpsrv.com/0_620a2fc4_0xf828fe006d358dbb05fe8f442725286c3bb3d288/content/conversions/jdBr7ZdN/videos/H2dv6poT-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_9
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_9
 https://videos-fms.jwpsrv.com/0_620a2fdf_0x2f7a50c6b064cc398a5eb986287164e66e7e2106/content/conversions/jdBr7ZdN/videos/O0k79Pee-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_10
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_10
 https://videos-cloudflare.jwpsrv.com/620a2ecc_136a0ca305ca0d67c0c9765be3e074e56825b838/content/conversions/jdBr7ZdN/videos/Bw9oth31-32932980.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_11
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_11
 https://videos-fms.jwpsrv.com/0_620a3016_0xe0f466316475e265d5c5980d018d114673b3b048/content/conversions/kftWsCcB/videos/muejl7nN-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_12
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_12
 https://videos-fms.jwpsrv.com/0_620a302d_0xb33c3f19d311e8ade5d892debe1ac6c975f08aeb/content/conversions/kftWsCcB/videos/UbO9Mw8o-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_13
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_13
 https://videos-fms.jwpsrv.com/0_620a2ed3_0x2e0060e2558eb4ecd54392585b87c44a3d7f8092/content/conversions/kftWsCcB/videos/KOF9bqA1-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_14
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_14
 https://videos-fms.jwpsrv.com/0_620a3056_0xb09cd795506708828154e7a496fe54ff983705e0/content/conversions/kftWsCcB/videos/f7sLpt8n-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_15
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_15
 https://videos-fms.jwpsrv.com/0_620a3075_0x362d8f4e107791ed67095a57acb89f242b0c120b/content/conversions/kftWsCcB/videos/u3CIf6XI-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_16
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_16
 https://videos-fms.jwpsrv.com/0_620a3089_0x5a0b4ef3fbaaeec2595144db47dce8a44ddd757b/content/conversions/kftWsCcB/videos/UoidrHkF-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_17
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_17
 https://videos-fms.jwpsrv.com/0_620a2ed5_0x545bca708bc10355c880be675f5f734d6365bea3/content/conversions/kftWsCcB/videos/DvyydYU6-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_18
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_18
 https://videos-fms.jwpsrv.com/0_620a30b2_0x1c54737774d1c3803e15f09ccde65179817377fe/content/conversions/kftWsCcB/videos/DMJtiQGw-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_19
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_19
 https://videos-fms.jwpsrv.com/0_620a30bd_0x245db3213cc244cb20a7301e960d6e24e623a847/content/conversions/kftWsCcB/videos/zbyd7ECc-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_20
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_20
 https://videos-fms.jwpsrv.com/0_620a30cb_0xc1f00a07e6cbad05aba80b01429cc7064c9a0ed3/content/conversions/kftWsCcB/videos/dmeKjtQy-32933007.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_21
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_21
 https://videos-fms.jwpsrv.com/0_620a30e9_0x2e3aa0312c0518b923d1c1ab2eb46faacb464348/content/conversions/AC4tfkBT/videos/oBvCPh7L-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_22
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_22
 https://videos-fms.jwpsrv.com/0_620a30f8_0x4573a7d29994a84495d4edf64bdd1862c7a28152/content/conversions/AC4tfkBT/videos/OOv00coG-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_23
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_23
 https://videos-fms.jwpsrv.com/0_620a30d4_0xe106ecc1faa8b478dae70b03d5edbd7e8c744d34/content/conversions/AC4tfkBT/videos/RPcxVrpc-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_24
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_24
 https://videos-fms.jwpsrv.com/0_620a2fa9_0x24d5d26d681de442d07210bea7b1e3c740303b65/content/conversions/AC4tfkBT/videos/huxpLmw6-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_25
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_25
 https://videos-cloudflare.jwpsrv.com/620a3123_c110f0fb7bdd500584fead82ed0fc529c5362a83/content/conversions/AC4tfkBT/videos/4DCZwVld-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_26
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_26
 https://videos-cloudflare.jwpsrv.com/620a3133_18d942df9fb78395113b4730d963cb3caf7d16c1/content/conversions/AC4tfkBT/videos/ARvgqspL-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_27
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_27
 https://videos-fms.jwpsrv.com/0_620a319b_0xc8ced9416393fffdcd89352c67130589482e1425/content/conversions/AC4tfkBT/videos/Z3qyl2Mj-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_28
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_28
 https://videos-cloudflare.jwpsrv.com/620a319e_594b320e5bd3d507479fe71b917b4060025eedfb/content/conversions/AC4tfkBT/videos/6DqzUaAF-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_29
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_29
 https://videos-cloudflare.jwpsrv.com/620a31cd_6cd25ba58a7652605bd21907a062ed84ba363993/content/conversions/AC4tfkBT/videos/9DtH34bd-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_30
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_30
 https://videos-cloudflare.jwpsrv.com/620a2f27_8f1137c136c7726c4c25955f5f816842a6412140/content/conversions/AC4tfkBT/videos/2Or6TyWH-32933016.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_31
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_31
 https://videos-fms.jwpsrv.com/0_620a31e9_0x54a4814c9787cd61476a13e2c8bfea11e8911a5c/content/conversions/BxmjfOqV/videos/HIrV4BMh-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_32
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_32
 https://videos-fms.jwpsrv.com/0_620a31ea_0x6f93c6724753166f6c083e0a8a7af94b4824fc43/content/conversions/BxmjfOqV/videos/qJTFwXIC-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_33
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_33
 https://videos-fms.jwpsrv.com/0_620a31eb_0xa73a46cb25635a61308963ac2649614307762c62/content/conversions/BxmjfOqV/videos/sVboOXXP-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_34
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_34
 https://videos-fms.jwpsrv.com/0_620a31ec_0x7f15d706a3650bb8e3417abbdf7efa6e041858cf/content/conversions/BxmjfOqV/videos/NhouW2eZ-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_35
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_35
 https://videos-fms.jwpsrv.com/0_620a31ef_0xf1371c9600c58ee4ab8c5e109abef2296151bf81/content/conversions/BxmjfOqV/videos/ed3uEG35-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_36
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_36
 https://videos-fms.jwpsrv.com/0_620a31ef_0x281edf21e0b15d1b663828646f1d3d7409d56fa8/content/conversions/BxmjfOqV/videos/odriQ03P-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_37
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_37
 https://videos-fms.jwpsrv.com/0_620a31f7_0x2ea3d78cac615cdfbc2950c793e5ab3ab696e240/content/conversions/BxmjfOqV/videos/re1s5ao1-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_38
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_38
 https://videos-fms.jwpsrv.com/0_620a31ff_0xc9bc15cf253a9f028264a062c4db8f9277524fbc/content/conversions/BxmjfOqV/videos/CgDCTV08-32933025.mp4.m3u8
-#EXTINF:-1 group-title="NOME DO GRUPO",Samurai Warriors_EP_39
+#EXTINF:-1 group-title="SAMURAI WARRIORS",Samurai Warriors_EP_39
 https://videos-cloudflare.jwpsrv.com/620a3203_a654978ad516f51c3725f4b79d21638b8aace1a6/content/conversions/BxmjfOqV/videos/0Ckiqb97-32933025.mp4.m3u8
