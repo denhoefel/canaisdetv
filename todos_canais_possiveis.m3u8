@@ -69,6 +69,9 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e458318cc2e59266b35a20a154990f0.webp" group-title="TV ABERTA",PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e458318cc2e59266b35a20a154990f0.webp" group-title="TV ABERTA",Globo
+https://geralorigin.eu-central-1.edge.mycdn.live/live/globorj/video.m3u8?md5=f_AcT3HIOMczjmLjLn1URw&expires=1645178251
+
 ################################################################################## NOTICIAS
 
 
