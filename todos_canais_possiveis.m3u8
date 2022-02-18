@@ -11,40 +11,40 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w1228511239.m3u8
 
 ################################################################################## CANAL DESENHOS
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL DESENHOS",BONS TEMPOS
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="CANAL DESENHOS",BONS TEMPOS
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w294705423.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL DESENHOS",RETRO - CARTOON
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="CANAL DESENHOS",RETRO - CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1837594645.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL DESENHOS",JETSONS
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="CANAL DESENHOS",JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w464985652.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL DESENHOS",RETRO CARTOON
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="CANAL DESENHOS",RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w774849603.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="CANAL DESENHOS",TV LOADING
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="CANAL DESENHOS",TV LOADING
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1793471852.m3u8
 
 ################################################################################## FILMES E SÉRIES
 
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",Tv Cinec
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES",Tv Cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",CARIOCA TV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/468a51d6031a373ec56983564ebf9ff8.webp" group-title="FILMES E SÉRIES",CARIOCA TV
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w87160511.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",CHAVES
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/d6d738376d63207eacd6a71322895a60.webp" group-title="FILMES E SÉRIES",CHAVES
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w658919756.m3u8
 
 #EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",TV SERIES AO VIVO
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w103326139.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",TV CONFIEGO - FILMES
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp" group-title="FILMES E SÉRIES",TV CONFIEGO - FILMES
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1401971691.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",VINTAGE TV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="FILMES E SÉRIES",VINTAGE TV
 https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w13029911.m3u8
 
 
@@ -66,21 +66,16 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w186060
 #EXTINF:-1  tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="TV ABERTA",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="TV ABERTA",PUC TV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e458318cc2e59266b35a20a154990f0.webp" group-title="TV ABERTA",PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="TV ABERTA", 1HD Music
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-
 ################################################################################## NOTICIAS
-
 
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/KRrvPGC.png?1" group-title="NOTICIAS",CBS NEWS
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://mitvstatic.com/channels/br_record-news_m.png" group-title="NOTICIAS",RECORD NEWS
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="NOTICIAS",RECORD NEWS
 http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="NOTICIAS",TVE RS
