@@ -1,1880 +1,680 @@
-################################################################################## CANAL ANIMES
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="CANAL ANIMES", TV Tokyo - WebTV
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="CANAL ANIMES", XTreme
-https://stmv5.samcast.com.br/everton7487/everton7487/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="CANAL ANIMES",ANIME TV
-https://stmv1.srvif.com/animetv/animetv/chunklist_w1228511239.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgur.com/Ho4Y7ru.png" group-title="CANAL ANIMES",ANIME ZONE TV
-https://azxtv.com/hls/stream.m3u8
-
-################################################################################## CANAL DESENHOS
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kuriakos2bkids.png" group-title="CANAL DESENHOS", Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids2/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="CANAL DESENHOS", Retrô Cartoon
+#EXTINF:-1, www.listaiptv.gratis
+https://lib.bz/video/site.mp4
+#EXTINF:-1, www.tvonline.fm
+https://lib.bz/video/site_gerou.mp4
+#EXTINF:-1,SBT Interior SP
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1, SBT - TV Cidade Verde - (PI)
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+#EXTINF:-1,SBT Rede Massa (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:-1, SBT TV Guajará (PA)
+https://livefocamundo.com:8081/tvguajaraonline2/index.m3u8
+#EXTINF:-1, SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+#EXTINF:-1, RecordTV MT
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8
+#EXTINF:-1, RecordTV MT 2
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1, RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1, TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1, RedeTV! TV Pantanal (MT)
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1, KpopTV Play
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
+#EXTINF:-1, AniTV
+https://tv01.livemustv.com.br/livemustv1358/livemustv1358/playlist.m3u8
+#EXTINF:-1, StrikerVerso
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8
+#EXTINF:-1, XTreme
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1, YEEAAH TV
+http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1, Anime TV - WebTV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,Loading - Web TV
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1, Ghost - WebTV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1, Jetsons - Webtv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1, TV Gazeta SP
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+#EXTINF:-1, Brasil Oeste (MT)
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:-1, TV Cultura - TV Futuro (RJ)
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1, Cultura Pará
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1,Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1, TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+#EXTINF:-1, Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="CANAL DESENHOS", TV Destak - WebTV
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="CANAL DESENHOS",VINTAGE TV
-https://stmv1.srvstm.com/rogerio4248/rogerio4248/chunklist_w13029911.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="CANAL DESENHOS",BONS TEMPOS
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w294705423.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="CANAL DESENHOS",RETRO - CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1837594645.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="CANAL DESENHOS",JETSONS
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w464985652.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deaee7a4d7ef1c38e84da23cfeee16ff.webp" group-title="CANAL DESENHOS",RETRO CARTOON
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w774849603.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="CANAL DESENHOS",TV LOADING
-https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1793471852.m3u8
-
-######### FILMES E SÉRIES ANTIGAS ###########
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS",Tv Cinec
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/awtv.png" group-title="FILMES E SÉRIES ANTIGAS",AWTV
-https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/valedasartes.png" group-title="FILMES E SÉRIES ANTIGAS", TV Vale das Artes - WebTV
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
-
-
-################################################################################## FILMES E SÉRIES
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvriosul.png" group-title="FILMES E SÉRIES", Rede TV Sul - WebTV
-https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_metrc3b3pole.png" group-title="FILMES E SÉRIES",TV Metrópole
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/468a51d6031a373ec56983564ebf9ff8.webp" group-title="FILMES E SÉRIES",CARIOCA TV
-https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w87160511.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-s/d6d738376d63207eacd6a71322895a60.webp" group-title="FILMES E SÉRIES",CHAVES
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w658919756.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvcine.png" group-title="FILMES E SÉRIES", TV Cine - Web TV
-https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvgallo.png" group-title="FILMES E SÉRIES", TV Gallo - WebTV
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",TV SERIES AO VIVO
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w103326139.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc4f4fddc2330b377037d229aee44942.webp" group-title="FILMES E SÉRIES",TV CONFIEGO - FILMES
-https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1401971691.m3u8
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",CANAL ITV (Filmes e Series)
-http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w1051564014.m3u8
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="FILMES E SÉRIES",TV CAPITAL (Séries)
-http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
-
-################################################################################## TV ABERTA
-
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="TV ABERTA",SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w1860606761.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/yHryW3l.png?1" group-title="TV ABERTA",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e458318cc2e59266b35a20a154990f0.webp" group-title="TV ABERTA",PUC TV
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="TV ABERTA",TV Cultura - TV Guará (MA)
-https://59f2354c05961.streamlock.net:1443/tvguara/_definst_/tvguara/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-fonte.png" group-title="TV ABERTA", FonteTV (GO)
-http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-
-################################################################################## NOTICIAS
-
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/KRrvPGC.png?1" group-title="NOTICIAS",CBS NEWS
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="NOTICIAS",RECORD NEWS
-http://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/oNpqaxy.png?1" group-title="NOTICIAS",TVE RS
-http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/aV1cIAf.png?1" group-title="NOTICIAS",REDE BRASIL de TELEVISAO
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/ozxkJhG.png" group-title="NOTICIAS", TVídeoNews
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/tGXSPjO.png" group-title="NOTICIAS",Catve - Cultura (PR)
-https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/MEBQV6z.png" group-title="NOTICIAS", RedeTV! TV Arapuan HD (PB)
-https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
-
-#EXTINF:-1  tvg-logo="http://i.imgur.com/Gk7EWc9.png" group-title="NOTICIAS",AGRO+ HD
-https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1227370496.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ze2JvUf.png?1" group-title="NOTICIAS", Rede Minas
+#EXTINF:-1,AWTV
+https://video01.logicahost.com.br/awtv/awtv/playlist.m3u8
+#EXTINF:-1,Vintage TV
+https://stmv1.srvif.com/webvintage/webvintage/playlist.m3u8
+#EXTINF:-1, Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
-
-
-#################### NARUTO SHIPPUDEN ###############################
-
-
-#EXTM3U
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP01
-https://www.animeson.club/naruto-shippuden/3631.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP02
-https://www.animeson.club/naruto-shippuden/3633.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP03
-https://www.animeson.club/naruto-shippuden/3635.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP04
-https://www.animeson.club/naruto-shippuden/3637.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP05
-https://www.animeson.club/naruto-shippuden/3639.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP06
-https://www.animeson.club/naruto-shippuden/3641.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP07
-https://www.animeson.club/naruto-shippuden/3643.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP08
-https://www.animeson.club/naruto-shippuden/3645.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP09
-https://www.animeson.club/naruto-shippuden/3647.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP10
-https://www.animeson.club/naruto-shippuden/3649.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP11
-https://www.animeson.club/naruto-shippuden/3651.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP12
-https://www.animeson.club/naruto-shippuden/3653.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP13
-https://www.animeson.club/naruto-shippuden/3655.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP14
-https://www.animeson.club/naruto-shippuden/3657.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP15
-https://www.animeson.club/naruto-shippuden/3659.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP16
-https://www.animeson.club/naruto-shippuden/3661.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP17
-https://www.animeson.club/naruto-shippuden/3663.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP18
-https://www.animeson.club/naruto-shippuden/3665.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP19
-https://www.animeson.club/naruto-shippuden/3667.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP20
-https://www.animeson.club/naruto-shippuden/3669.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP21
-https://www.animeson.club/naruto-shippuden/3671.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP22
-https://www.animeson.club/naruto-shippuden/3673.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP23
-https://www.animeson.club/naruto-shippuden/3675.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP24
-https://www.animeson.club/naruto-shippuden/3677.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP25
-https://www.animeson.club/naruto-shippuden/3679.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP26
-https://www.animeson.club/naruto-shippuden/3681.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP27
-https://www.animeson.club/naruto-shippuden/3683.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP28
-https://www.animeson.club/naruto-shippuden/3685.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP29
-https://www.animeson.club/naruto-shippuden/3687.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP30
-https://www.animeson.club/naruto-shippuden/3689.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP31
-https://www.animeson.club/naruto-shippuden/3691.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP32
-https://www.animeson.club/naruto-shippuden/3693.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP33
-https://www.animeson.club/naruto-shippuden/3695.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP34
-https://www.animeson.club/naruto-shippuden/3697.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP35
-https://www.animeson.club/naruto-shippuden/3699.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP36
-https://www.animeson.club/naruto-shippuden/3711.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP37
-https://www.animeson.club/naruto-shippuden/3713.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP38
-https://www.animeson.club/naruto-shippuden/3715.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP39
-https://www.animeson.club/naruto-shippuden/3717.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP40
-https://www.animeson.club/naruto-shippuden/3719.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP41
-https://www.animeson.club/naruto-shippuden/3721.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP42
-https://www.animeson.club/naruto-shippuden/3723.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP43
-https://www.animeson.club/naruto-shippuden/3725.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP44
-https://www.animeson.club/naruto-shippuden/3727.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP45
-https://www.animeson.club/naruto-shippuden/3729.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP46
-https://www.animeson.club/naruto-shippuden/3731.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP47
-https://www.animeson.club/naruto-shippuden/3733.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP48
-https://www.animeson.club/naruto-shippuden/3735.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP49
-https://www.animeson.club/naruto-shippuden/3737.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP50
-https://www.animeson.club/naruto-shippuden/3739.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP51
-https://www.animeson.club/naruto-shippuden/3741.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP52
-https://www.animeson.club/naruto-shippuden/3743.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP53
-https://www.animeson.club/naruto-shippuden/3745.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP54
-https://www.animeson.club/naruto-shippuden/3747.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP55
-https://www.animeson.club/naruto-shippuden/3749.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP56
-https://www.animeson.club/naruto-shippuden/3751.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP57
-https://www.animeson.club/naruto-shippuden/3753.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP58
-https://www.animeson.club/naruto-shippuden/3755.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP59
-https://www.animeson.club/naruto-shippuden/3757.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP60
-https://www.animeson.club/naruto-shippuden/3759.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP61
-https://www.animeson.club/naruto-shippuden/3761.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP62
-https://www.animeson.club/naruto-shippuden/3763.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP63
-https://www.animeson.club/naruto-shippuden/3765.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP64
-https://www.animeson.club/naruto-shippuden/3767.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP65
-https://www.animeson.club/naruto-shippuden/3769.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP66
-https://www.animeson.club/naruto-shippuden/3771.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP67
-https://www.animeson.club/naruto-shippuden/3773.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP68
-https://www.animeson.club/naruto-shippuden/3775.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP69
-https://www.animeson.club/naruto-shippuden/3777.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP70
-https://www.animeson.club/naruto-shippuden/3779.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP71
-https://www.animeson.club/naruto-shippuden/3781.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP72
-https://www.animeson.club/naruto-shippuden/3783.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP73
-https://www.animeson.club/naruto-shippuden/3785.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP74
-https://www.animeson.club/naruto-shippuden/3787.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP75
-https://www.animeson.club/naruto-shippuden/3789.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP76
-https://www.animeson.club/naruto-shippuden/3791.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP77
-https://www.animeson.club/naruto-shippuden/3793.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP78
-https://www.animeson.club/naruto-shippuden/3795.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP79
-https://www.animeson.club/naruto-shippuden/3797.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP80
-https://www.animeson.club/naruto-shippuden/3799.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP81
-https://www.animeson.club/naruto-shippuden/3801.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP82
-https://www.animeson.club/naruto-shippuden/3803.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP83
-https://www.animeson.club/naruto-shippuden/3805.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP84
-https://www.animeson.club/naruto-shippuden/3807.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP85
-https://www.animeson.club/naruto-shippuden/3809.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP86
-https://www.animeson.club/naruto-shippuden/3811.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP87
-https://www.animeson.club/naruto-shippuden/3813.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP88
-https://www.animeson.club/naruto-shippuden/3815.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP89
-https://www.animeson.club/naruto-shippuden/3817.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP90
-https://www.animeson.club/naruto-shippuden/3819.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP91
-https://www.animeson.club/naruto-shippuden/3821.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP92
-https://www.animeson.club/naruto-shippuden/3823.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP93
-https://www.animeson.club/naruto-shippuden/3825.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP94
-https://www.animeson.club/naruto-shippuden/3827.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP95
-https://www.animeson.club/naruto-shippuden/3829.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP96
-https://www.animeson.club/naruto-shippuden/3831.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP97
-https://www.animeson.club/naruto-shippuden/3833.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP98
-https://www.animeson.club/naruto-shippuden/3835.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP99
-https://www.animeson.club/naruto-shippuden/3837.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP100
-https://www.animeson.club/naruto-shippuden/3839.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP101
-https://www.animeson.club/naruto-shippuden/3841.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP102
-https://www.animeson.club/naruto-shippuden/3843.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP103
-https://www.animeson.club/naruto-shippuden/3845.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP104
-https://www.animeson.club/naruto-shippuden/3847.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP105
-https://www.animeson.club/naruto-shippuden/3849.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP106
-https://www.animeson.club/naruto-shippuden/3851.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP107
-https://www.animeson.club/naruto-shippuden/3853.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP108
-https://www.animeson.club/naruto-shippuden/3855.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP109
-https://www.animeson.club/naruto-shippuden/3857.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP110
-https://www.animeson.club/naruto-shippuden/3859.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP111
-https://www.animeson.club/naruto-shippuden/3861.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP112
-https://www.animeson.club/naruto-shippuden/3863.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP113
-https://www.animeson.club/naruto-shippuden/3865.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP114
-https://www.animeson.club/naruto-shippuden/3867.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP115
-https://www.animeson.club/naruto-shippuden/3869.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP116
-https://www.animeson.club/naruto-shippuden/3871.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP117
-https://www.animeson.club/naruto-shippuden/3873.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP118
-https://www.animeson.club/naruto-shippuden/3875.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP119
-https://www.animeson.club/naruto-shippuden/3877.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP120
-https://www.animeson.club/naruto-shippuden/3879.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP121
-https://www.animeson.club/naruto-shippuden/3881.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP122
-https://www.animeson.club/naruto-shippuden/3883.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP123
-https://www.animeson.club/naruto-shippuden/3885.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP124
-https://www.animeson.club/naruto-shippuden/3887.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP125
-https://www.animeson.club/naruto-shippuden/3889.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP126
-https://www.animeson.club/naruto-shippuden/3891.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP127
-https://www.animeson.club/naruto-shippuden/3893.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP128
-https://www.animeson.club/naruto-shippuden/3895.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP129
-https://www.animeson.club/naruto-shippuden/3897.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP130
-https://www.animeson.club/naruto-shippuden/3899.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP131
-https://www.animeson.club/naruto-shippuden/3901.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP132
-https://www.animeson.club/naruto-shippuden/3905.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP133
-https://www.animeson.club/naruto-shippuden/3907.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP134
-https://www.animeson.club/naruto-shippuden/3909.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP135
-https://www.animeson.club/naruto-shippuden/3911.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP136
-https://www.animeson.club/naruto-shippuden/3913.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP137
-https://www.animeson.club/naruto-shippuden/3915.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP138
-https://www.animeson.club/naruto-shippuden/3917.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP139
-https://www.animeson.club/naruto-shippuden/3919.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP140
-https://www.animeson.club/naruto-shippuden/3921.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP141
-https://www.animeson.club/naruto-shippuden/3923.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP142
-https://www.animeson.club/naruto-shippuden/3925.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP143
-https://www.animeson.club/naruto-shippuden/3927.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP144
-https://www.animeson.club/naruto-shippuden/3929.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP145
-https://www.animeson.club/naruto-shippuden/3931.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP146
-https://www.animeson.club/naruto-shippuden/3933.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP147
-https://www.animeson.club/naruto-shippuden/3935.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP148
-https://www.animeson.club/naruto-shippuden/3937.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP149
-https://www.animeson.club/naruto-shippuden/3939.mp4
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP150
-https://www.animeson.club/naruto-shippuden/3941.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP151
-https://www.animeson.club/naruto-shippuden/3943.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP152
-https://www.animeson.club/naruto-shippuden/3945.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP153
-https://www.animeson.club/naruto-shippuden/3947.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP154
-https://www.animeson.club/naruto-shippuden/3949.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP155
-https://www.animeson.club/naruto-shippuden/3951.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP156
-https://www.animeson.club/naruto-shippuden/3953.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP157
-https://www.animeson.club/naruto-shippuden/3955.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP158
-https://www.animeson.club/naruto-shippuden/3957.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP159
-https://www.animeson.club/naruto-shippuden/3959.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP160
-https://www.animeson.club/naruto-shippuden/3957.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP161
-https://www.animeson.club/naruto-shippuden/3959.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP162
-https://www.animeson.club/naruto-shippuden/3961.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP163
-https://www.animeson.club/naruto-shippuden/3963.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP164
-https://www.animeson.club/naruto-shippuden/3965.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP165
-https://www.animeson.club/naruto-shippuden/3967.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP166
-https://www.animeson.club/naruto-shippuden/3969.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP167
-https://www.animeson.club/naruto-shippuden/3971.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP168
-https://www.animeson.club/naruto-shippuden/3973.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP169
-https://www.animeson.club/naruto-shippuden/3975.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP170
-https://www.animeson.club/naruto-shippuden/3977.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP171
-https://www.animeson.club/naruto-shippuden/3979.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP172
-https://www.animeson.club/naruto-shippuden/3981.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP173
-https://www.animeson.club/naruto-shippuden/3983.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP174
-https://www.animeson.club/naruto-shippuden/3985.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP175
-https://www.animeson.club/naruto-shippuden/3987.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP176
-https://www.animeson.club/naruto-shippuden/3989.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP177
-https://www.animeson.club/naruto-shippuden/3991.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP178
-https://www.animeson.club/naruto-shippuden/3993.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP179
-https://www.animeson.club/naruto-shippuden/3995.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP180
-https://www.animeson.club/naruto-shippuden/3997.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP181
-https://www.animeson.club/naruto-shippuden/3999.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP182
-https://www.animeson.club/naruto-shippuden/4001.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP183
-https://www.animeson.club/naruto-shippuden/4003.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP184
-https://www.animeson.club/naruto-shippuden/4005.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP185
-https://www.animeson.club/naruto-shippuden/4007.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP186
-https://www.animeson.club/naruto-shippuden/4009.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP187
-https://www.animeson.club/naruto-shippuden/4011.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP188
-https://www.animeson.club/naruto-shippuden/4013.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP189
-https://www.animeson.club/naruto-shippuden/4015.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP190
-https://www.animeson.club/naruto-shippuden/4017.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP191
-https://www.animeson.club/naruto-shippuden/4019.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP192
-https://www.animeson.club/naruto-shippuden/4021.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP193
-https://www.animeson.club/naruto-shippuden/4023.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP194
-https://www.animeson.club/naruto-shippuden/4025.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP195
-https://www.animeson.club/naruto-shippuden/4027.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP196
-https://www.animeson.club/naruto-shippuden/4029.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP197
-https://www.animeson.club/naruto-shippuden/4031.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP198
-https://www.animeson.club/naruto-shippuden/4033.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP199
-https://www.animeson.club/naruto-shippuden/4035.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP200
-https://www.animeson.club/naruto-shippuden/4037.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP201
-https://www.animeson.club/naruto-shippuden/4039.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP202
-https://www.animeson.club/naruto-shippuden/4041.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP203
-https://www.animeson.club/naruto-shippuden/4043.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP204
-https://www.animeson.club/naruto-shippuden/4045.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP205
-https://www.animeson.club/naruto-shippuden/4047.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP206
-https://www.animeson.club/naruto-shippuden/4049.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP207
-https://www.animeson.club/naruto-shippuden/4051.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP208
-https://www.animeson.club/naruto-shippuden/4053.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP209
-https://www.animeson.club/naruto-shippuden/4055.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP210
-https://www.animeson.club/naruto-shippuden/4057.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP211
-https://www.animeson.club/naruto-shippuden/4059.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP212
-https://www.animeson.club/naruto-shippuden/4061.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP213
-https://www.animeson.club/naruto-shippuden/4063.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP214
-https://www.animeson.club/naruto-shippuden/4065.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP215
-https://www.animeson.club/naruto-shippuden/4067.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP216
-https://www.animeson.club/naruto-shippuden/4069.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP217
-https://www.animeson.club/naruto-shippuden/4071.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP218
-https://www.animeson.club/naruto-shippuden/4073.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP219
-https://www.animeson.club/naruto-shippuden/4075.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP220
-https://www.animeson.club/naruto-shippuden/4077.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP221
-https://www.animeson.club/naruto-shippuden/4079.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP222
-https://www.animeson.club/naruto-shippuden/4081.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP223
-https://www.animeson.club/naruto-shippuden/4083.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP224
-https://www.animeson.club/naruto-shippuden/4085.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP225
-https://www.animeson.club/naruto-shippuden/4087.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP226
-https://www.animeson.club/naruto-shippuden/4089.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP227
-https://www.animeson.club/naruto-shippuden/4091.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP228
-https://www.animeson.club/naruto-shippuden/4093.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP229
-https://www.animeson.club/naruto-shippuden/4095.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP230
-https://www.animeson.club/naruto-shippuden/4097.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP231
-https://www.animeson.club/naruto-shippuden/4099.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP232
-https://www.animeson.club/naruto-shippuden/4101.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP233
-https://www.animeson.club/naruto-shippuden/4103.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP234
-https://www.animeson.club/naruto-shippuden/4105.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP235
-https://www.animeson.club/naruto-shippuden/4107.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP236
-https://www.animeson.club/naruto-shippuden/4109.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP237
-https://www.animeson.club/naruto-shippuden/4111.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP238
-https://www.animeson.club/naruto-shippuden/4113.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP239
-https://www.animeson.club/naruto-shippuden/4115.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP240
-https://www.animeson.club/naruto-shippuden/4117.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP241
-https://www.animeson.club/naruto-shippuden/4119.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP242
-https://www.animeson.club/naruto-shippuden/4121.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP243
-https://www.animeson.club/naruto-shippuden/4123.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP244
-https://www.animeson.club/naruto-shippuden/4125.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP245
-https://www.animeson.club/naruto-shippuden/4127.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP246
-https://www.animeson.club/naruto-shippuden/4129.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP247
-https://www.animeson.club/naruto-shippuden/4131.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP248
-https://www.animeson.club/naruto-shippuden/4133.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP249
-https://www.animeson.club/naruto-shippuden/4135.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP250
-https://www.animeson.club/naruto-shippuden/4137.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP251
-https://www.animeson.club/naruto-shippuden/4139.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP252
-https://www.animeson.club/naruto-shippuden/4141.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP253
-https://www.animeson.club/naruto-shippuden/4143.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP254
-https://www.animeson.club/naruto-shippuden/4145.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP255
-https://www.animeson.club/naruto-shippuden/4147.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP256
-https://www.animeson.club/naruto-shippuden/4149.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP257
-https://www.animeson.club/naruto-shippuden/4151.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP258
-https://www.animeson.club/naruto-shippuden/4153.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP259
-https://www.animeson.club/naruto-shippuden/4155.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP260
-https://www.animeson.club/naruto-shippuden/4157.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP261
-https://www.animeson.club/naruto-shippuden/4159.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP262
-https://www.animeson.club/naruto-shippuden/4161.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP263
-https://www.animeson.club/naruto-shippuden/4163.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP264
-https://www.animeson.club/naruto-shippuden/4165.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP265
-https://www.animeson.club/naruto-shippuden/4167.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP266
-https://www.animeson.club/naruto-shippuden/4171.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP267
-https://www.animeson.club/naruto-shippuden/4173.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP268
-https://www.animeson.club/naruto-shippuden/4175.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP269
-https://www.animeson.club/naruto-shippuden/4177.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP270
-https://www.animeson.club/naruto-shippuden/4179.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP271
-https://www.animeson.club/naruto-shippuden/4181.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP272
-https://www.animeson.club/naruto-shippuden/4183.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP273
-https://www.animeson.club/naruto-shippuden/4185.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP274
-https://www.animeson.club/naruto-shippuden/4187.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP275
-https://www.animeson.club/naruto-shippuden/4189.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP276
-https://www.animeson.club/naruto-shippuden/4191.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP277
-https://www.animeson.club/naruto-shippuden/4193.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP278
-https://www.animeson.club/naruto-shippuden/4195.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP279
-https://www.animeson.club/naruto-shippuden/4197.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP280
-https://www.animeson.club/naruto-shippuden/4199.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP281
-https://www.animeson.club/naruto-shippuden/4201.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP282
-https://www.animeson.club/naruto-shippuden/4203.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP283
-https://www.animeson.club/naruto-shippuden/4205.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP284
-https://www.animeson.club/naruto-shippuden/4207.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP285
-https://www.animeson.club/naruto-shippuden/4209.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP286
-https://www.animeson.club/naruto-shippuden/4211.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP287
-https://www.animeson.club/naruto-shippuden/4213.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP288
-https://www.animeson.club/naruto-shippuden/4215.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP289
-https://www.animeson.club/naruto-shippuden/4217.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP290
-https://www.animeson.club/naruto-shippuden/4219.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP291
-https://www.animeson.club/naruto-shippuden/4221.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP292
-https://www.animeson.club/naruto-shippuden/4223.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP293
-https://www.animeson.club/naruto-shippuden/4224.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP294
-https://www.animeson.club/naruto-shippuden/4223.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP295
-https://www.animeson.club/naruto-shippuden/4225.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP296
-https://www.animeson.club/naruto-shippuden/4227.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP297
-https://www.animeson.club/naruto-shippuden/4229.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP298
-https://www.animeson.club/naruto-shippuden/4231.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP299
-https://www.animeson.club/naruto-shippuden/4233.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP300
-https://www.animeson.club/naruto-shippuden/4235.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP301
-https://www.animeson.club/naruto-shippuden/4237.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP302
-https://www.animeson.club/naruto-shippuden/4239.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP303
-https://www.animeson.club/naruto-shippuden/4241.mp4
-
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP304
-https://www.animeson.club/naruto-shippuden/4243.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP305
-https://www.animeson.club/naruto-shippuden/4245.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP306
-https://www.animeson.club/naruto-shippuden/4247.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP307
-https://www.animeson.club/naruto-shippuden/4249.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP308
-https://www.animeson.club/naruto-shippuden/4251.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP309
-https://www.animeson.club/naruto-shippuden/4253.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP310
-https://www.animeson.club/naruto-shippuden/4255.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP311
-https://www.animeson.club/naruto-shippuden/4257.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP312
-https://www.animeson.club/naruto-shippuden/4259.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP313
-https://www.animeson.club/naruto-shippuden/4261.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP314
-https://www.animeson.club/naruto-shippuden/4263.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP315
-https://www.animeson.club/naruto-shippuden/4265.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP316
-https://www.animeson.club/naruto-shippuden/4267.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP317
-https://www.animeson.club/naruto-shippuden/4269.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP318
-https://www.animeson.club/naruto-shippuden/4271.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP319
-https://www.animeson.club/naruto-shippuden/4273.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP320
-https://www.animeson.club/naruto-shippuden/4275.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP321
-https://www.animeson.club/naruto-shippuden/4277.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP322
-https://www.animeson.club/naruto-shippuden/4279.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP323
-https://www.animeson.club/naruto-shippuden/4281.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP324
-https://www.animeson.club/naruto-shippuden/4283.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP325
-https://www.animeson.club/naruto-shippuden/4285.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP326
-https://www.animeson.club/naruto-shippuden/4287.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP327
-https://www.animeson.club/naruto-shippuden/4289.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP328
-https://www.animeson.club/naruto-shippuden/4291.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP329
-https://www.animeson.club/naruto-shippuden/4293.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP330
-https://www.animeson.club/naruto-shippuden/4295.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP331
-https://www.animeson.club/naruto-shippuden/4297.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP332
-https://www.animeson.club/naruto-shippuden/4299.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP333
-https://www.animeson.club/naruto-shippuden/4301.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP334
-https://www.animeson.club/naruto-shippuden/4303.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP335
-https://www.animeson.club/naruto-shippuden/4305.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP336
-https://www.animeson.club/naruto-shippuden/4307.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP337
-https://www.animeson.club/naruto-shippuden/4309.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP338
-https://www.animeson.club/naruto-shippuden/4311.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP339
-https://www.animeson.club/naruto-shippuden/4313.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP340
-https://www.animeson.club/naruto-shippuden/4315.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP341
-https://www.animeson.club/naruto-shippuden/4317.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP342
-https://www.animeson.club/naruto-shippuden/4319.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP343
-https://www.animeson.club/naruto-shippuden/4321.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP344
-https://www.animeson.club/naruto-shippuden/4323.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP345
-https://www.animeson.club/naruto-shippuden/4325.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP346
-https://www.animeson.club/naruto-shippuden/4327.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP347
-https://www.animeson.club/naruto-shippuden/4329.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP348
-https://www.animeson.club/naruto-shippuden/4331.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP349
-https://www.animeson.club/naruto-shippuden/4333.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP350
-https://www.animeson.club/naruto-shippuden/4335.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP351
-https://www.animeson.club/naruto-shippuden/4337.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP352
-https://www.animeson.club/naruto-shippuden/4339.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP353
-https://www.animeson.club/naruto-shippuden/4341.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP354
-https://www.animeson.club/naruto-shippuden/4343.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP355
-https://www.animeson.club/naruto-shippuden/4345.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP356
-https://www.animeson.club/naruto-shippuden/4347.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP357
-https://www.animeson.club/naruto-shippuden/4349.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP358
-https://www.animeson.club/naruto-shippuden/4351.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP359
-https://www.animeson.club/naruto-shippuden/4353.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP360
-https://www.animeson.club/naruto-shippuden/4355.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP361
-https://www.animeson.club/naruto-shippuden/4357.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP362
-https://www.animeson.club/naruto-shippuden/4359.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP363
-https://www.animeson.club/naruto-shippuden/4361.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP364
-https://www.animeson.club/naruto-shippuden/4363.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP365
-https://www.animeson.club/naruto-shippuden/4365.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP366
-https://www.animeson.club/naruto-shippuden/4367.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP367
-https://www.animeson.club/naruto-shippuden/4369.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP368
-https://www.animeson.club/naruto-shippuden/4371.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP369
-https://www.animeson.club/naruto-shippuden/4373.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP370
-https://www.animeson.club/naruto-shippuden/4375.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP371
-https://www.animeson.club/naruto-shippuden/4377.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP372
-https://www.animeson.club/naruto-shippuden/4379.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP373
-https://www.animeson.club/naruto-shippuden/4381.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP374
-https://www.animeson.club/naruto-shippuden/4383.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP375
-https://www.animeson.club/naruto-shippuden/4385.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP376
-https://www.animeson.club/naruto-shippuden/4387.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP377
-https://www.animeson.club/naruto-shippuden/4389.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP378
-https://www.animeson.club/naruto-shippuden/4391.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP379
-https://www.animeson.club/naruto-shippuden/4393.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP380
-https://www.animeson.club/naruto-shippuden/4395.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP381
-https://www.animeson.club/naruto-shippuden/4397.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP382
-https://www.animeson.club/naruto-shippuden/4399.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP383
-https://www.animeson.club/naruto-shippuden/4401.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP384
-https://www.animeson.club/naruto-shippuden/4403.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP385
-https://www.animeson.club/naruto-shippuden/4405.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP386
-https://www.animeson.club/naruto-shippuden/4407.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP387
-https://www.animeson.club/naruto-shippuden/4409.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP388
-https://www.animeson.club/naruto-shippuden/4411.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP389
-https://www.animeson.club/naruto-shippuden/4413.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP390
-https://www.animeson.club/naruto-shippuden/4415.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP391
-https://www.animeson.club/naruto-shippuden/4417.mp4
-
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP392
-https://www.animeson.club/naruto-shippuden/4419.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP393
-https://www.animeson.club/naruto-shippuden/4421.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP394
-https://www.animeson.club/naruto-shippuden/4423.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP395
-https://www.animeson.club/naruto-shippuden/4425.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP396
-https://www.animeson.club/naruto-shippuden/4427.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP397
-https://www.animeson.club/naruto-shippuden/4429.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP398
-https://www.animeson.club/naruto-shippuden/4431.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP399
-https://www.animeson.club/naruto-shippuden/4433.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP400
-https://www.animeson.club/naruto-shippuden/4435.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP401
-https://www.animeson.club/naruto-shippuden/4437.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP402
-https://www.animeson.club/naruto-shippuden/4439.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP403
-https://www.animeson.club/naruto-shippuden/4441.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP404
-https://www.animeson.club/naruto-shippuden/4443.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP405
-https://www.animeson.club/naruto-shippuden/4445.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP406
-https://www.animeson.club/naruto-shippuden/4447.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP407
-https://www.animeson.club/naruto-shippuden/4449.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP408
-https://www.animeson.club/naruto-shippuden/4451.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP409
-https://www.animeson.club/naruto-shippuden/4453.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP410
-https://www.animeson.club/naruto-shippuden/4455.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP411
-https://www.animeson.club/naruto-shippuden/4457.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP412
-https://www.animeson.club/naruto-shippuden/4459.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP413
-https://www.animeson.club/naruto-shippuden/4461.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP414
-https://www.animeson.club/naruto-shippuden/4463.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP415
-https://www.animeson.club/naruto-shippuden/4465.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP416
-https://www.animeson.club/naruto-shippuden/4467.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP417
-https://www.animeson.club/naruto-shippuden/4469.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP418
-https://www.animeson.club/naruto-shippuden/4471.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP419
-https://www.animeson.club/naruto-shippuden/4473.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP420
-https://www.animeson.club/naruto-shippuden/4475.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP421
-https://www.animeson.club/naruto-shippuden/4477.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP422
-https://www.animeson.club/naruto-shippuden/4479.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP423
-https://www.animeson.club/naruto-shippuden/4481.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP424
-https://www.animeson.club/naruto-shippuden/4483.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP425
-https://www.animeson.club/naruto-shippuden/4485.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP426
-https://www.animeson.club/naruto-shippuden/4487.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP427
-https://www.animeson.club/naruto-shippuden/4489.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP428
-https://www.animeson.club/naruto-shippuden/4491.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP429
-https://www.animeson.club/naruto-shippuden/4493.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP430
-https://www.animeson.club/naruto-shippuden/4495.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP431
-https://www.animeson.club/naruto-shippuden/4497.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP432
-https://www.animeson.club/naruto-shippuden/4499.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP433
-https://www.animeson.club/naruto-shippuden/4501.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP434
-https://www.animeson.club/naruto-shippuden/4503.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP435
-https://www.animeson.club/naruto-shippuden/4505.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP436
-https://www.animeson.club/naruto-shippuden/4507.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP437
-https://www.animeson.club/naruto-shippuden/4509.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP438
-https://www.animeson.club/naruto-shippuden/4511.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP449
-https://www.animeson.club/naruto-shippuden/4513.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP440
-https://www.animeson.club/naruto-shippuden/4515.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP441
-https://www.animeson.club/naruto-shippuden/4517.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP442
-https://www.animeson.club/naruto-shippuden/4519.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP443
-https://www.animeson.club/naruto-shippuden/4521.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP444
-https://www.animeson.club/naruto-shippuden/4523.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP445
-https://www.animeson.club/naruto-shippuden/4525.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP446
-https://www.animeson.club/naruto-shippuden/4527.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP447
-https://www.animeson.club/naruto-shippuden/4529.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP448
-https://www.animeson.club/naruto-shippuden/4531.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP449
-https://www.animeson.club/naruto-shippuden/4533.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP450
-https://www.animeson.club/naruto-shippuden/4535.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP451
-https://www.animeson.club/naruto-shippuden/4537.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP452
-https://www.animeson.club/naruto-shippuden/4539.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP453
-https://www.animeson.club/naruto-shippuden/4541.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP454
-https://www.animeson.club/naruto-shippuden/4543.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP455
-https://www.animeson.club/naruto-shippuden/4545.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP456
-https://www.animeson.club/naruto-shippuden/4547.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP457
-https://www.animeson.club/naruto-shippuden/4549.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP458
-https://www.animeson.club/naruto-shippuden/4551.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP459
-https://www.animeson.club/naruto-shippuden/4553.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP460
-https://www.animeson.club/naruto-shippuden/4555.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP461
-https://www.animeson.club/naruto-shippuden/4557.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP462
-https://www.animeson.club/naruto-shippuden/4559.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP463
-https://www.animeson.club/naruto-shippuden/4561.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP464
-https://www.animeson.club/naruto-shippuden/4563.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP465
-https://www.animeson.club/naruto-shippuden/4565.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP466
-https://www.animeson.club/naruto-shippuden/4567.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP467
-https://www.animeson.club/naruto-shippuden/4569.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP468
-https://www.animeson.club/naruto-shippuden/4571.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP469
-https://www.animeson.club/naruto-shippuden/4573.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP470
-https://www.animeson.club/naruto-shippuden/4575.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP471
-https://www.animeson.club/naruto-shippuden/4577.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP472
-https://www.animeson.club/naruto-shippuden/4579.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP473
-https://www.animeson.club/naruto-shippuden/4581.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP474
-https://www.animeson.club/naruto-shippuden/4583.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP475
-https://www.animeson.club/naruto-shippuden/4585.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP476
-https://www.animeson.club/naruto-shippuden/4585.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP477
-https://www.animeson.club/naruto-shippuden/4587.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP478
-https://www.animeson.club/naruto-shippuden/4589.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP479
-https://www.animeson.club/naruto-shippuden/4591.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP480
-https://www.animeson.club/naruto-shippuden/4593.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP481
-https://www.animeson.club/naruto-shippuden/4595.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP482
-https://www.animeson.club/naruto-shippuden/4597.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP483
-https://www.animeson.club/naruto-shippuden/4599.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP484
-https://www.animeson.club/naruto-shippuden/4601.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP485
-https://www.animeson.club/naruto-shippuden/4603.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP486
-https://www.animeson.club/naruto-shippuden/4605.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP487
-https://www.animeson.club/naruto-shippuden/4607.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP488
-https://www.animeson.club/naruto-shippuden/4609.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP489
-https://www.animeson.club/naruto-shippuden/4611.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP490
-https://www.animeson.club/naruto-shippuden/4613.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP491
-https://www.animeson.club/naruto-shippuden/4615.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP492
-https://www.animeson.club/naruto-shippuden/4617.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP493
-https://www.animeson.club/naruto-shippuden/4619.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP494
-https://www.animeson.club/naruto-shippuden/4621.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP495
-https://www.animeson.club/naruto-shippuden/4623.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP496
-https://www.animeson.club/naruto-shippuden/4625.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP497
-https://www.animeson.club/naruto-shippuden/4627.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP498
-https://www.animeson.club/naruto-shippuden/4629.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP499
-https://www.animeson.club/naruto-shippuden/4631.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP500
-https://www.animeson.club/naruto-shippuden/4633.mp4
-
-#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/32/41/b6/3241b61aa8c8e79ee7efa79dc0774d64.png" group-title="NARUTO SHIPPUDEN",NARUTO EP501
-https://www.animeson.club/naruto-shippuden/4635.mp4
-
-########### SAMURAI WARRIORS ###########
-
-#EXTM3U
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_1
-https://videos-fms.jwpsrv.com/0_620a2ed8_0x4ecd2593853fa10bc6917fc9c7fa98a966806386/content/conversions/jdBr7ZdN/videos/LX8J2TOC-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_2
-https://videos-fms.jwpsrv.com/0_620a2eb6_0xb5a7168c2640cefe2c93a48aac4257147e819b1c/content/conversions/jdBr7ZdN/videos/yoEQ79QW-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_3
-https://videos-fms.jwpsrv.com/0_620a2eb5_0xfc72b4ec984d93ed4cfb8879af231370d7e441b7/content/conversions/jdBr7ZdN/videos/IUnAalPt-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_4
-https://videos-fms.jwpsrv.com/0_620a2eb6_0x3f24eae0875b4a9ded9b19d1469f56d416453150/content/conversions/jdBr7ZdN/videos/oiy558rl-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_5
-https://videos-fms.jwpsrv.com/0_620a2eb6_0xccbd91c19a1043d5c963f408ea0e88285b2a4813/content/conversions/jdBr7ZdN/videos/pW8Qi4ls-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_6
-https://videos-fms.jwpsrv.com/0_620a2eb9_0x7b0c64216260b8bdaba2327f4d2f2939d814de7d/content/conversions/jdBr7ZdN/videos/NH6ReP2j-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_7
-https://videos-fms.jwpsrv.com/0_620a2fa4_0x82a73c6bd21230782f3698f02197db68c39c57a0/content/conversions/jdBr7ZdN/videos/yXJI5aNr-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_8
-https://videos-fms.jwpsrv.com/0_620a2fc4_0xf828fe006d358dbb05fe8f442725286c3bb3d288/content/conversions/jdBr7ZdN/videos/H2dv6poT-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_9
-https://videos-fms.jwpsrv.com/0_620a2fdf_0x2f7a50c6b064cc398a5eb986287164e66e7e2106/content/conversions/jdBr7ZdN/videos/O0k79Pee-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_10
-https://videos-cloudflare.jwpsrv.com/620a2ecc_136a0ca305ca0d67c0c9765be3e074e56825b838/content/conversions/jdBr7ZdN/videos/Bw9oth31-32932980.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_11
-https://videos-fms.jwpsrv.com/0_620a3016_0xe0f466316475e265d5c5980d018d114673b3b048/content/conversions/kftWsCcB/videos/muejl7nN-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_12
-https://videos-fms.jwpsrv.com/0_620a302d_0xb33c3f19d311e8ade5d892debe1ac6c975f08aeb/content/conversions/kftWsCcB/videos/UbO9Mw8o-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_13
-https://videos-fms.jwpsrv.com/0_620a2ed3_0x2e0060e2558eb4ecd54392585b87c44a3d7f8092/content/conversions/kftWsCcB/videos/KOF9bqA1-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_14
-https://videos-fms.jwpsrv.com/0_620a3056_0xb09cd795506708828154e7a496fe54ff983705e0/content/conversions/kftWsCcB/videos/f7sLpt8n-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_15
-https://videos-fms.jwpsrv.com/0_620a3075_0x362d8f4e107791ed67095a57acb89f242b0c120b/content/conversions/kftWsCcB/videos/u3CIf6XI-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_16
-https://videos-fms.jwpsrv.com/0_620a3089_0x5a0b4ef3fbaaeec2595144db47dce8a44ddd757b/content/conversions/kftWsCcB/videos/UoidrHkF-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_17
-https://videos-fms.jwpsrv.com/0_620a2ed5_0x545bca708bc10355c880be675f5f734d6365bea3/content/conversions/kftWsCcB/videos/DvyydYU6-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_18
-https://videos-fms.jwpsrv.com/0_620a30b2_0x1c54737774d1c3803e15f09ccde65179817377fe/content/conversions/kftWsCcB/videos/DMJtiQGw-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_19
-https://videos-fms.jwpsrv.com/0_620a30bd_0x245db3213cc244cb20a7301e960d6e24e623a847/content/conversions/kftWsCcB/videos/zbyd7ECc-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_20
-https://videos-fms.jwpsrv.com/0_620a30cb_0xc1f00a07e6cbad05aba80b01429cc7064c9a0ed3/content/conversions/kftWsCcB/videos/dmeKjtQy-32933007.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_21
-https://videos-fms.jwpsrv.com/0_620a30e9_0x2e3aa0312c0518b923d1c1ab2eb46faacb464348/content/conversions/AC4tfkBT/videos/oBvCPh7L-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_22
-https://videos-fms.jwpsrv.com/0_620a30f8_0x4573a7d29994a84495d4edf64bdd1862c7a28152/content/conversions/AC4tfkBT/videos/OOv00coG-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_23
-https://videos-fms.jwpsrv.com/0_620a30d4_0xe106ecc1faa8b478dae70b03d5edbd7e8c744d34/content/conversions/AC4tfkBT/videos/RPcxVrpc-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_24
-https://videos-fms.jwpsrv.com/0_620a2fa9_0x24d5d26d681de442d07210bea7b1e3c740303b65/content/conversions/AC4tfkBT/videos/huxpLmw6-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_25
-https://videos-cloudflare.jwpsrv.com/620a3123_c110f0fb7bdd500584fead82ed0fc529c5362a83/content/conversions/AC4tfkBT/videos/4DCZwVld-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_26
-https://videos-cloudflare.jwpsrv.com/620a3133_18d942df9fb78395113b4730d963cb3caf7d16c1/content/conversions/AC4tfkBT/videos/ARvgqspL-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_27
-https://videos-fms.jwpsrv.com/0_620a319b_0xc8ced9416393fffdcd89352c67130589482e1425/content/conversions/AC4tfkBT/videos/Z3qyl2Mj-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_28
-https://videos-cloudflare.jwpsrv.com/620a319e_594b320e5bd3d507479fe71b917b4060025eedfb/content/conversions/AC4tfkBT/videos/6DqzUaAF-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_29
-https://videos-cloudflare.jwpsrv.com/620a31cd_6cd25ba58a7652605bd21907a062ed84ba363993/content/conversions/AC4tfkBT/videos/9DtH34bd-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_30
-https://videos-cloudflare.jwpsrv.com/620a2f27_8f1137c136c7726c4c25955f5f816842a6412140/content/conversions/AC4tfkBT/videos/2Or6TyWH-32933016.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_31
-https://videos-fms.jwpsrv.com/0_620a31e9_0x54a4814c9787cd61476a13e2c8bfea11e8911a5c/content/conversions/BxmjfOqV/videos/HIrV4BMh-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_32
-https://videos-fms.jwpsrv.com/0_620a31ea_0x6f93c6724753166f6c083e0a8a7af94b4824fc43/content/conversions/BxmjfOqV/videos/qJTFwXIC-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_33
-https://videos-fms.jwpsrv.com/0_620a31eb_0xa73a46cb25635a61308963ac2649614307762c62/content/conversions/BxmjfOqV/videos/sVboOXXP-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_34
-https://videos-fms.jwpsrv.com/0_620a31ec_0x7f15d706a3650bb8e3417abbdf7efa6e041858cf/content/conversions/BxmjfOqV/videos/NhouW2eZ-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_35
-https://videos-fms.jwpsrv.com/0_620a31ef_0xf1371c9600c58ee4ab8c5e109abef2296151bf81/content/conversions/BxmjfOqV/videos/ed3uEG35-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_36
-https://videos-fms.jwpsrv.com/0_620a31ef_0x281edf21e0b15d1b663828646f1d3d7409d56fa8/content/conversions/BxmjfOqV/videos/odriQ03P-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_37
-https://videos-fms.jwpsrv.com/0_620a31f7_0x2ea3d78cac615cdfbc2950c793e5ab3ab696e240/content/conversions/BxmjfOqV/videos/re1s5ao1-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_38
-https://videos-fms.jwpsrv.com/0_620a31ff_0xc9bc15cf253a9f028264a062c4db8f9277524fbc/content/conversions/BxmjfOqV/videos/CgDCTV08-32933025.mp4.m3u8
-#EXTINF:-1  tvg-logo="https://i.pinimg.com/originals/79/bf/b2/79bfb22fc31cc194587ce96768369f07.png" group-title="SAMURAI WARRIORS",Samurai Warriors_EP_39
-https://videos-cloudflare.jwpsrv.com/620a3203_a654978ad516f51c3725f4b79d21638b8aace1a6/content/conversions/BxmjfOqV/videos/0Ckiqb97-32933025.mp4.m3u8
-
-*************************** ULTRAMAN/1966  *******************************************************
-
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.01
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_01.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.02
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_02.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.03
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_03.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.04
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_04.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.05
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_05.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.06
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_06.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.07
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_07.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.08
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_08.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.09
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_09.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.10
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_10.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.11
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_11.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.12
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_12.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.13
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_13.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.14
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_14.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.15
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_15.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.16
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_16.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.17
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_17.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.18
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_18.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.19
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_19.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.20
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_20.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.21
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_21.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.22
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_22.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.23
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_23.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.24
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_24.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.25
-https://ia600500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_25.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.26
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_26.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.27
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_27.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.28
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_28.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.29
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_29.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.30
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_30.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.31
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_31.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.32
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_32.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.33
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_33.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.34
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_34.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.35
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_35.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.36
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_36.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.37
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_37.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.38
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_38.mp4
-#EXTINF:-1´type="video" tvg-logo="https://tinyurl.com/y3lqk9ax " group-title="SERIES TOKUSATSU " pltv-subgroup="ULTRAMAN 1966",Ultraman Ep.39
-https://ia800500.us.archive.org/32/items/Ultraman_201503/ultraman/Ultraman_39.mp4
-
-
-##### Jiraya ##########
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 01 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93125.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 02 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93127.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 03 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93130.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 04 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93130.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 05 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93132.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 06 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93134.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 07 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93136.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 08 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93138.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 09 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93140.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 10 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93142.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 11 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93144.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 12 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93146.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 13 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93148.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 14 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93150.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 15 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93152.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 16 https://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93152.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 17 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93156.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 18 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93158.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 19 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93160.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 20 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93162.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 21 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93164.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 22 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93166.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 23 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93170.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 24 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93172.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 25 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93174.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 26 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93176.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 27 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93178.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 28 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93180.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 29 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93182.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 30 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93184.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 31 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93186.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 32 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93188.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 33 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93190.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 34 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93192.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 35 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93194.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 36 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93196.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 37 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93198.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 38 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93200.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 39 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93202.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 40 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93204.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 41 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93206.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 42 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93208.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 43 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93210.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 44 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93212.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 45 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93214.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 46 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93216.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 47 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93218.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 48 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93220.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 49 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93222.mp4
-
-#EXTINF:-1  tvg-logo="https://rd1.com.br/wp-content/uploads/2020/04/20200426-jiraya-05.png" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya" group-title="SERIES TOKUSATSU " pltv-subgroup="Jiraya", Jiraya Ep 50 http://www.animeson.club/jiraya-o-incrivel-ninja-dublado/93224.mp4
+#EXTINF:-1, TV União (DF)
+https://596639ebdd89b.streamlock.net/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1, TV8 Brasil
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8
+#EXTINF:-1, TVBS - Web TV
+https://srv1.zcast.com.br/tvbs/tvbs/playlist.m3u8
+#EXTINF:-1, TV Brasil  - Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+#EXTINF:-1, TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1, DarkFlix HD
+https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
+#EXTINF:-1, KroneHIT
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1, 1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1, Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1, Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1,FDR - Futura (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1, Rede Brasil - TV Marajoara (PA)
+http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
+#EXTINF:-1,TopTV
+https://cast.cdnseguro.com:19360/8092/8092.m3u8
+#EXTINF:-1,Kiss TV
+https://cast.cdnseguro.com:19360/8094/8094.m3u8
+#EXTINF:-1,TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+#EXTINF:-1,TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1, Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:-1, Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1, IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+#EXTINF:-1,Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1,TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+#EXTINF:-1, Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1,Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1,Gospel Music
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1,Central TV
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/chunklist_w2100483638.m3u8
+#EXTINF:-1, Locomotion - WebTV
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1,Rede Premium
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1, FonteTV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:-1,TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+#EXTINF:-1, Rede UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8
+#EXTINF:-1, Via Morena
+https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/playlist.m3u8
+#EXTINF:-1, Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8
+#EXTINF:-1, TV Rio Madeira - WebTV
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1, TV Vale das Artes - WebTV
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+#EXTINF:-1, Rede TV Sul - WebTV
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1, TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1, RDC
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/chunklist.m3u8
+#EXTINF:-1, TV Aracati
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+#EXTINF:-1, TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
+#EXTINF:-1, TV Mon
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+#EXTINF:-1, TV Carioca
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1, SescTV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index.m3u8
+#EXTINF:-1, TVídeoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1, NGT
+https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8
+#EXTINF:-1, TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,ISTV
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
+#EXTINF:-1, Canal 29 - WebTV
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1, Bons Tempos TV - WebTV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+#EXTINF:-1, TV Natal
+https://stmv1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8
+#EXTINF:-1, TV Destak - WebTV
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+#EXTINF:-1, TV Séries - WebTV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,TV Aberta SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1,TV Candidés
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1,TV Japi
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
+#EXTINF:-1,TV Maceió (AL)
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+#EXTINF:-1,TV Mar
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1, TV Sjid (BA)
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1,TV Faap
+https://midia.faap.net/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1,Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:-1,Agro Mais
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+#EXTINF:-1,Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:-1, TV Verdes Campos SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1,AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1, TV Gallo - WebTV
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
+#EXTINF:-1,TV Santa Cecília (SP)
+http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
+#EXTINF:-1, Otto Fm TV
+http://streaming.bitonlive.net:8080/hls/ottofm2/204_203/index.m3u8
+#EXTINF:-1, Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8?publisher=83
+#EXTINF:-1, Ocko Star
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8
+#EXTINF:-1, Colosal TV
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1, Mundo TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1, TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+#EXTINF:-1, Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+#EXTINF:-1, SIC (apenas em Portugal)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:-1, France 24
+http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8
+#EXTINF:-1, Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, NHK Japan
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1, Deutsche Welle
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1, Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+#EXTINF:-1, RT Documentary Channel
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1, RT en español
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1, RAINEWS24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+#EXTINF:-1, CCTV
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv1_1/index.m3u8
+#EXTINF:-1, CCTV Notícias
+https://cctvtxyhwh5c.liveplay.myqcloud.com/live/cdrmcctv13_1/index.m3u8
+#EXTINF:-1, CCTV Filmes
+https://cctvcnchwh5c.v.cdn20.com/live/cdrmcctv6_1_1800/playlist.m3u8?wsApp=HLS
+#EXTINF:-1, Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1, The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1,SIC TV  Local - Record Rondônia
+http://5953e7f9ae845.streamlock.net/2502/2502/chunklist.m3u8
+#EXTINF:-1, TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1, TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1, TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1, TV Master
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1,CBN SP
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1,CBN RJ
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1,MASTER TV PR
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+#EXTINF:-1,TV FUTURO
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1, PLAN TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+#EXTINF:-1, TV POCOS
+https://live.cdn.upx.com/00084/myStream.sdp/playlist.m3u8
+#EXTINF:-1, TV PARANA TURISMO
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1,TV BELTRAO 2
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w1662797829.m3u8
+#EXTINF:-1,TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,TV SDB
+https://novo.bitstreaming.info:1936/8094/8094/playlist.m3u8
+#EXTINF:-1,TV UFSC
+http://150.162.188.10:8080/hls/1.m3u8
+#EXTINF:-1, TVE ES
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8
+#EXTINF:-1,TV CHROMA
+https://5c483b9d1019c.streamlock.net:443/8054/8054/playlist.m3u8
+#EXTINF:-1, MULTI RIO
+http://187.111.97.45:1935/webtv/webtv/playlist.m3u8
+#EXTINF:-1,REDE MINAS
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8
+#EXTINF:-1, TV NTV
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+#EXTINF:-1,TV VICOSA
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+#EXTINF:-1,TV GAZETA NORTE MINEIRA
+https://59e4b6c1beddc.streamlock.net:443/tvgazeta/tvgazeta/playlist.m3u8
+#EXTINF:-1,TV THATHI
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1,TV O POVO
+https://Stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1,UNISC TV
+http://tv.unisc.br:80/hls/test.m3u8
+#EXTINF:-1, FURG TV
+http://stream.furg.br/hls/furgtv_480p.m3u8
+#EXTINF:-1, TV MACKENZIE
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1,TV SETE LAGOAS
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
+#EXTINF:-1, TV COM BRASIL
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
+#EXTINF:-1, TV COM DF
+https://5b7f3c45ab7c2.streamlock.net:443/8008/smil:8008.smil/playlist.m3u8?DVR
+#EXTINF:-1, TV ABERTA SP
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:-1, TVC RIO
+https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+#EXTINF:-1, TV COM SANTOS
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+#EXTINF:-1, CWB TV
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+#EXTINF:-1, REDE CIDADE RIO GRANDE
+https://59f2354c05961.streamlock.net:1443/redecidade/_definst_/redecidade/playlist.m3u8
+#EXTINF:-1, TVC
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/playlist.m3u8
+#EXTINF:-1, TV ALTERNATIVA
+https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1, TV GRAO PARA
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:-1,PEGADINHAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60a286daf888610007669801/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=65b02980-f3eb-11eb-8277-1f560e8d79bd&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ca421eb5-e83c-4e34-97f4-f9566ee8dada&userId=&serverSideAds=true
+#EXTINF:-1,TV BRICS
+https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1,EU TV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1,VRT CHANNEL
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+#EXTINF:-1,NATURE TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+#EXTINF:-1, TV BRAGA BRASIL
+https://alanza.iptv2022.com/Braga_Brasil/index.m3u8
+#EXTINF:-1,ANIME ZONE TV
+https://azxtv.com/hls/stream.m3u8
+#EXTINF:-1,TV SERIES 1 AS PANTERAS
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8
+#EXTINF:-1,TV SERIES 2 MULHER BIONICA
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8
+#EXTINF:-1,TV SERIES 3 STAR TREK
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
+#EXTINF:-1,TV SERIES 4 CHIPS
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8
+#EXTINF:-1,TV SERIES 5 GUERRA SOMBRA E AGUA FRESCA
+https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w983909720.m3u8
+#EXTINF:-1,TV DO POVO
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:-1,TV A7 CALDAS NOVAS
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1, TV NOVA PLAY
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8
+#EXTINF:-1, TV CARIOCA NET
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8
+#EXTINF:-1, CHANNEL 1
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
+#EXTINF:-1, REDE PREMIUM TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:-1,TV CHANNEL NETWORK
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8
+#EXTINF:-1, REDE UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist-480p.m3u8
+#EXTINF:-1, BS TV
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8
+#EXTINF:-1, ADESSO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1,TV SUL BAHIA
+https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
+#EXTINF:-1,TVI VILA IMPERIAL
+https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
+#EXTINF:-1,TV MAIS BRASIL
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+#EXTINF:-1,TV SINGULAR
+https://stmv.video.expressolider.com.br/tvsingularsat/tvsingularsat/playlist.m3u8
+#EXTINF:-1, TV LIBERDADE
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+#EXTINF:-1, WEB TV XTREME
+https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1,TV ALIANCA CATARINENSE
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+#EXTINF:-1, SEVEN TV
+https://videodj.fm5.com.br:19360/seventv/seventv.m3u8
+#EXTINF:-1,TV NORDESTE
+https://cdn.jmvstream.com/w/AVJ-10557/playlist/playlist.m3u8
+#EXTINF:-1, VILA TV
+https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
+#EXTINF:-1, TV CIDADE OESTE
+http://radios.primedata.com.br:5080/LiveApp/streams/872258137935361699746456.m3u8?token=undefined
+#EXTINF:-1, VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+#EXTINF:-1, PPZ TV
+https://5c483b9d1019c.streamlock.net/8058/8058/chunklist_w1002170053.m3u8
+#EXTINF:-1, SOU TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+#EXTINF:-1,TV MAX
+https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
+#EXTINF:-1, TV OPCAO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/playlist.m3u8
+#EXTINF:-1, TV CORDEIRO
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:-1,REDE CAXIAS TV
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+#EXTINF:-1, CANAL TV RIO
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/playlist.m3u8
+#EXTINF:-1,TV METROPOLITANA RIO
+https://alanza.iptv2022.com/METROPOLITANA_RIO/index.m3u8
+#EXTINF:-1,CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
+#EXTINF:-1,CLASSIQUE TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1,CLASSIQUE TV WESTERN
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
+#EXTINF:-1,Channel 1
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8
+#EXTINF:-1, REDE QUE DEMAIS
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2073176681.m3u8
+#EXTINF:-1, TV QUE DEMAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:-1, Q TAL CHANNEL
+https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8
+#EXTINF:-1, BLITS TV
+https://video01.logicahost.com.br/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1,TRIBUNA REGIONAL WEB TV
+https://novo.bitstreaming.info:1936/8132/8132/playlist.m3u8
+#EXTINF:-1,TV DESTAK
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8
+#EXTINF:-1,ASCAME
+https://livefocamundo.com:8081/ascametv/index.m3u8
+#EXTINF:-1, TV CONTROLES
+https://livefocamundo.com:8081/tvcontroles/index.m3u8
+#EXTINF:-1,TV RIO GRANDE
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+#EXTINF:-1, JPL TV
+https://streaming.jplproducoes.com.br/JPL1/video.m3u8
+#EXTINF:-1, TV CARAVELAS
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1, GHOST TV
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+#EXTINF:-1,ELYTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+#EXTINF:-1, WEB TV AGUA BOA
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
+#EXTINF:-1, WTJ TV MINAS
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+#EXTINF:-1,TV GAZETA BA
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+#EXTINF:-1,TV PLANALTO NORTE
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8
+#EXTINF:-1, ELEMENTAL CHANNEL
+https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
+#EXTINF:-1, TV MAX 90
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8
+#EXTINF:-1, BMTV
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
+#EXTINF:-1,TV GRAMADO
+https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+#EXTINF:-1,DEMAIS TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1,NOVA TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1, CABO FRIO TV
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+#EXTINF:-1, REDE WEB TV
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
+#EXTINF:-1, LAVRAS CE TV WEB
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+#EXTINF:-1,TV VERDES CAMPOS SAT
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1, TV DIVERSIDADE
+https://stmv5.samcast.com.br/tvdiversidade/tvdiversidade/playlist.m3u8
+#EXTINF:-1, OESC TV
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+#EXTINF:-1, RDTV DIGITAL
+https://5d82644094cc0.streamlock.net/8144/8144/playlist.m3u8
+#EXTINF:-1,TV OPINIAO PLAY
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+#EXTINF:-1,TV EMPIRE NO AR
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/chunklist_w1336890723.m3u8
+#EXTINF:-1,TV PASSO FUNDO
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+#EXTINF:-1, TV IBATE
+https://5eaa6849d0971.streamlock.net/8034/8034/playlist.m3u8
+#EXTINF:-1,TV CLUBE WEB
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1, UTV
+https://59f2354c05961.streamlock.net:1443/utvtv/_definst_/utvtv/playlist.m3u8
+#EXTINF:-1, TV VIDA FORMOSA
+https://stmv2.voxtvhd.com.br/vidafm/vidafm/playlist.m3u8
+#EXTINF:-1, TV SANTA
+https://596639ebdd89b.streamlock.net/tvbela0982/tvbela0982/playlist.m3u8
+#EXTINF:-1, REDE SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1, TV ALAGONET
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+#EXTINF:-1, MASTER SHOW TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1, TV 3
+https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8
+#EXTINF:-1, TELA VIVA TV
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1,TV SERTAO PETROLINA
+https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
+#EXTINF:-1, WEB TV AGROTOUR
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1, WTV BRASIL
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+#EXTINF:-1, VIRTUAL TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+#EXTINF:-1,SANDEGI TV
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+#EXTINF:-1, TV OSORIO NEWS
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+#EXTINF:-1,PLENA TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1,TV NAZARENA
+https://stmv1.srvif.com/tvnaza/tvnaza/playlist.m3u8
+#EXTINF:-1, TV INFORBAHIA
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+#EXTINF:-1, TV GALLO
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+#EXTINF:-1, RDC TV
+https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
+#EXTINF:-1,URBAN TV
+https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8
+#EXTINF:-1,URBAN TV LIVE
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/chunklist_w2118431116.m3u8
+#EXTINF:-1,TV DIGITAL BIRIGUI
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+#EXTINF:-1,TV DIARIO DO SERTAO
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+#EXTINF:-1,TV ITAPETININGA
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1,TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+#EXTINF:-1,REDE TV SUL
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
+#EXTINF:-1, REDE TV MAIS
+https://novo.bitstreaming.info:1936/8010/8010/playlist.m3u8
+#EXTINF:-1, CONEXAO TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/chunklist-480p.m3u8
+#EXTINF:-1, TV NBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+#EXTINF:-1, ALLEGRO WEB TV
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+#EXTINF:-1, ARARUNA TV
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+#EXTINF:-1, TV BOQUEIRAO
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+#EXTINF:-1, MASTER SHOW TV
+https://serv2.videovox.pw/master1667/master1667/playlist.m3u8?wowzasessionid=933110662
+#EXTINF:-1,CONECTA MAIS WEB TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+#EXTINF:-1,TV DESTAQUE NACIONAL
+https://novo.bitstreaming.info:1936/tvdestaquenacional/tvdestaquenacional/playlist.m3u8
+#EXTINF:-1, TV SOL COMUNIDADE
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1, CONECT TV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1,NOVA ERA TV
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist.m3u8
+#EXTINF:-1,TV ONIX
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/playlist.m3u8
+#EXTINF:-1, TV J SID
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+#EXTINF:-1,TV MAR
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8
+#EXTINF:-1,ALPHA CHANNEL
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+#EXTINF:-1,TV 3 VIA
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+#EXTINF:-1,BRAZITV
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1, AISH TV BRASIL
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+#EXTINF:-1, CBTV NOW
+https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
+#EXTINF:-1, TV CNB
+https://livefocamundo.com:8081/tvcnb/index.m3u8
+#EXTINF:-1, TV CANDIDES
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+#EXTINF:-1, TV CARAGUA
+https://cdn.jmvstream.com/w/AVJ-9779/playlist/playlist.m3u8
+#EXTINF:-1, TV GALEGA
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1,REDE METROPOLITANA
+https://cdn.cdnseguro.com/metropolitana2/metropolitana2/playlist.m3u8
+#EXTINF:-1, TV PONTA DO SEIXAS
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+#EXTINF:-1, TV DAS ARTES
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+#EXTINF:-1, TVRP
+https://5b7f3c45ab7c2.streamlock.net:443/8042/8042/playlist.m3u8?DVR
+#EXTINF:-1,TV IRACEMA
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+#EXTINF:-1,NOSSA TV MOSSORO
+https://cdn.jmvstream.com/w/AVJ-9733/playlist/playlist.m3u8
+#EXTINF:-1,CANAL 7
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+#EXTINF:-1, TV OMINDARE
+https://video01.kshost.com.br/lourdes52007/lourdes52007/chunklist.m3u8
+#EXTINF:-1, TERE TV
+https://5b7f3c45ab7c2.streamlock.net:443/8158/8158/playlist.m3u8?DVR
+#EXTINF:-1,LIDER TV
+http://189.51.193.70:1935/LiderTV/fluxo1/playlist.m3u8
+#EXTINF:-1,AMERICAN HORROR CHANNEL
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1, TV VIDEONEWS
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8
+#EXTINF:-1,FALA LITORAL WEB TV
+https://5c483b9d1019c.streamlock.net:443/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1, TV CAMARA SALVADOR
+https://596639ebdd89b.streamlock.net/8114/8114/chunklist_w287122639.m3u8
+#EXTINF:-1, PRIMER TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+#EXTINF:-1, TV JAGUAR
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/playlist.m3u8
+#EXTINF:-1, TV INTERATIVA
+http://srv2.zcast.com.br/tvinterativa/tvinterativa/playlist-480p.m3u8
+#EXTINF:-1,TVN BRASIL
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+#EXTINF:-1,TV BNO
+https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
+#EXTINF:-1,TV GUARUJA
+https://59e4b6c1beddc.streamlock.net:443/8138/8138/playlist.m3u8
+#EXTINF:-1,TV MARES GUARAPARI
+https://59f1cbe63db89.streamlock.net:1443/tvmaresguarapari/_definst_/tvmaresguarapari/playlist.m3u8
+#EXTINF:-1,STUDIO TV
+https://streamingtv.ddoti.com.br/hls/stream.m3u8
+#EXTINF:-1,MUNDO TV
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8
+#EXTINF:-1,TV CAMARA SP
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1, TV ZOOM
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+#EXTINF:-1, SAO RAIMUNDO TV
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+#EXTINF:-1,TV GRANDE NATAL
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1,TV CIDADE CANAL 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8
+#EXTINF:-1, CAMOCIM WEB TV
+https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w341983832.m3u8
+#EXTINF:-1, WEB TV PARANA
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
+#EXTINF:-1, WEB TV URUARA
+https://srv3.zcast.com.br/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:-1,WEB TV CAICO
+https://srv5.zcast.com.br/wladimyr7277/wladimyr7277/chunklist_w1930887590.m3u8
+#EXTINF:-1,SRTV PB
+https://livefocamundo.com:8081/srtvpb/index.m3u8
+#EXTINF:-1,TV CARAVELAS
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1,TV CINEC
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/chunklist-480p.m3u8
+#EXTINF:-1,TV MASTER PB
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1,TV COGNOPOLIS
+https://59f1cbe63db89.streamlock.net:1443/tvcognopolis/_definst_/tvcognopolis/chunklist_w1989881567.m3u8
+#EXTINF:-1, CANAL 25 JUNDIAI
+http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+#EXTINF:-1,TV ASSU
+https://5eaa6849d0971.streamlock.net/8058/8058/playlist.m3u8
+#EXTINF:-1,TV PRECABURA
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+#EXTINF:-1, TV CN AGITOS
+http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+#EXTINF:-1,CANAL 10 FOZ
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8
+#EXTINF:-1,ZAPPING MUSIC
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1, TV ALVORADA SERTANEJA
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8
+#EXTINF:-1,CAROLINA TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:-1, 88 STEREO
+http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1,POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1,ON FM TV
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1,POWER TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlists.m3u8
+#EXTINF:-1,PORTAL FOXMIX
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/chunklist_w393614848.m3u8
+#EXTINF:-1,TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1,CATEDRAL DO ROCK TV
+https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8
+#EXTINF:-1,RADIO 21
+http://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
