@@ -5,19 +5,25 @@
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
 
-#EXTINF:-1, group-title="DESENHOS", ANIME TV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="DESENHOS", ANIME TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1228511239.m3u8
-#EXTINF:-1, group-title="DESENHOS", ANIME ZONE TV
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="DESENHOS", ANIME ZONE TV
 https://azxtv.com/hls/stream.m3u8
-#EXTINF:-1, group-title="DESENHOS", Retrô Cartoon
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="DESENHOS", Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
-#EXTINF:-1, group-title="DESENHOS", RETRO - CARTOON
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="DESENHOS", RETRO - CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1837594645.m3u8
-#EXTINF:-1, group-title="DESENHOS", JETSONS
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="DESENHOS", JETSONS
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist_w464985652.m3u8
-#EXTINF:-1, group-title="DESENHOS", RETRO CARTOON
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="DESENHOS", RETRO CARTOON
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w774849603.m3u8
-#EXTINF:-1, group-title="DESENHOS", TV LOADING
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="DESENHOS", TV LOADING
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w1793471852.m3u8
 
 ######### FILMES E SÉRIES ###########
@@ -25,41 +31,49 @@ https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist_w179347185
 #EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS",Tv Cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/playlist.m3u8
 
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS", TV Destak - WebTV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS", TV Destak - WebTV
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS", BONS TEMPOS
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS", BONS TEMPOS
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w294705423.m3u8
 
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS", Tv Cinec
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS", Tv Cinec
 https://59f1cbe63db89.streamlock.net:1443/tvcinec/tvcinec/playlist.m3u8
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS", TV Vale das Artes - WebTV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS", TV Vale das Artes - WebTV
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS", Rede TV Sul - WebTV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS", Rede TV Sul - WebTV
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS",TV Metrópole
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS",TV Metrópole
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS",CARIOCA TV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS",CARIOCA TV
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w87160511.m3u8
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS", TV Gallo - WebTV
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS", TV Gallo - WebTV
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
-#EXTINF:-1, group-title="FILMES E SÉRIES ANTIGAS", TV SERIES AO VIVO
+#EXTINF:-1  tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="FILMES E SÉRIES ANTIGAS", TV SERIES AO VIVO
 https://stmv1.srvif.com/tvserie/tvserie/chunklist_w103326139.m3u8
 
 ################################################################################## TV ABERTA
 
 
-#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",RECORD
+#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", RECORD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,group-title="TV ABERTA", TV CONFIEGO - FILMES
+#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", TV CONFIEGO - FILMES
 https://stmv1.voxtvhd.com.br/tvconfiegogospel/tvconfiegogospel/chunklist_w1401971691.m3u8
-#EXTINF:-1, group-title="TV ABERTA",PUC TV
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",PUC TV
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1, group-title="TV ABERTA", FonteTV (GO)
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", FonteTV (GO)
 http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
-#EXTINF:-1, group-title="TV ABERTA", TVE RS
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", TVE RS
 http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
-#EXTINF:-1, group-title="TV ABERTA", TVídeoNews
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA", TVídeoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:-1, group-title="TV ABERTA",AGRO+ HD
+
+#EXTINF:-1  tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="TV ABERTA",AGRO+ HD
 https://evpp.mm.uol.com.br/geob_band/agromais/chunklist_w1227370496.m3u8
+
+
+
